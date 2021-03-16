@@ -1,5 +1,4 @@
-## The source code and datas of paper "A Trajectory Ensemble-Compression Algorithm based on Finite
-Element Method"
+## The source code and datas of paper "A Trajectory Ensemble-Compression Algorithm based on Finite Element Method"
 ### src
 1.compress_finite_element.m: The algorithm function
 2.experiment.m:The experimental program
